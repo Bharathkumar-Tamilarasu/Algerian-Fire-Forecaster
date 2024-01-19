@@ -3,27 +3,24 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Author**: Bharathkumar Tamilarasu <br />
 **Email**: bharathkumar.t.17@gmail.com <br />
 **Website**: https://bharathkumart17.wixsite.com/portfolio <br />
 **LinkedIn**: https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/  <br />
+##
+![Forest Fire Image](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Fire%20forest%20image.jpg)
 
-
-![AirBnb](https://user-images.githubusercontent.com/121340232/215006504-cacfdcbc-d047-495b-ba2a-994753957ab8.jpg)
-
-
-# Table Of Contents
+# **Table of Contents**
   
-  - [Introduction of Airbnb](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#introduction-of-airbnb)
-  - [About the Dataset](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#about-the-dataset--airbnb-bookings)
-  - [Python libraries used](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#different-python-libraries-used-to-complete-this-eda)
-  - [Project Work flow](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#project-work-flow)
-  - [purpose of the analysis](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#the-purpose-of-the-analysis)
-  - [Certificate](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#certificate)
-
+  - Introduction
+  - About the Dataset
+  - Python libraries used
+  - Project Work flow
+  - Purpose of the analysis
 
 
 ## **Introduction of Airbnb**
