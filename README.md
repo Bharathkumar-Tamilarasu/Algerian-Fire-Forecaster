@@ -57,7 +57,7 @@ Fire Weather Index (FWI) Index: 0 to 31.1
 Classes: two classes, namely Fire and not Fire
 
 
-## **Different Python libraries used to complete this EDA:**
+## **Libraries Used:**
 
 * Pandas
 * NumPy
@@ -67,7 +67,7 @@ Classes: two classes, namely Fire and not Fire
 
 ## **Project Work flow**
 
-1. Understanding the Data
+1. Data Exploration
 2. Data Wrangling
 3. Exploratory Data Analysis
 4. Model Building
