@@ -24,6 +24,12 @@
   - About the Dataset
   - Python libraries used
   - Project Work flow
+    1. Data Exploration
+    2. Data Wrangling
+    3. Exploratory Data Analysis
+    4. Model Building
+    5. Prediction
+  - Data Exploration
   - Limitations
   - Conclusion
 
@@ -35,12 +41,11 @@
 
 ## **Objective** 
 
-The objective of this project is to utilize Python and machine learning techniques for predicting the Fire Weather Index (FWI) in different locations across Algeria.
+* The objective of this project is to utilize Python and machine learning techniques for predicting the Fire Weather Index (FWI) in different locations across Algeria.
 
 ## **Data Collection**
 
-The data for this project was collected from Kaggle, a popular platform for data science competitions and datasets.
-
+* The data for this project was collected from Kaggle, a popular platform for data science competitions and datasets.
 * Check out the dataset [here](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Algerian_forest_fires_dataset_UPDATE.csv)
 
 ## **About the Dataset**
@@ -56,7 +61,7 @@ The data for this project was collected from Kaggle, a popular platform for data
 
 - Date : (DD/MM/YYYY) Day, month ('june' to 'september'), year (2012)
 
-Weather data observations:
+  Weather data observations:
 
 * Temp : temperature noon (temperature max) in Celsius degrees: 22 to 42
 * RH : Relative Humidity in %: 21 to 90
@@ -73,12 +78,13 @@ Weather data observations:
 
 ## **Libraries Used:**
 
-* Pandas
-* NumPy
-* Scikit-Learn
-* Matplotlib.Pyplot
-* Seaborn
-* Regex
+Employed the following libraries for comprehensive data analysis:
+
+* **Pandas** for versatile data manipulation.
+* **NumPy** for efficient numerical operations.
+* Leveraged **Scikit-Learn** for machine learning tasks and predictive modeling.
+* Utilized **Matplotlib.Pyplot** and **Seaborn** for creating insightful visualizations.
+* Integrated **Regex** for advanced text pattern matching.
 
 ## **Project Work flow**
 
@@ -86,6 +92,12 @@ Weather data observations:
 2. Data Wrangling
 3. Exploratory Data Analysis
 4. Model Building
+    - Feature Selection Based on Correlation
+    - Feature Scaling Or Standardization
+    - Linear Regression
+    - Lasso Regression
+    - Ridge Regression
+    - ElasticNet Regression
 5. Prediction
 
 ## Limitations
@@ -96,9 +108,9 @@ Weather data observations:
 
 ## **Conclusion**
 
-In conclusion, the 'Algerian_Fire_Forecaster' project successfully utilized Python and machine learning techniques to predict the Fire Weather Index (FWI) for locations in Algeria. By employing temperature, relative humidity (rh), wind speed (ws), rainfall (rain), Fine Fuel Moisture Code (FFMC), Duff Moisture Code (DMC), Initial Spread Index (ISI), fire classes, and regional parameters as input features, our model demonstrated the ability to assess the potential fire danger.
-
-This project leverages the power of machine learning to enhance our understanding of fire weather dynamics in Algeria, ultimately contributing to more effective wildfire risk management strategies in the region.
+* In conclusion, the 'Algerian_Fire_Forecaster' project successfully utilized Python and machine learning techniques to predict the Fire Weather Index (FWI) for locations in Algeria.
+* By employing temperature, relative humidity (rh), wind speed (ws), rainfall (rain), Fine Fuel Moisture Code (FFMC), Duff Moisture Code (DMC), Initial Spread Index (ISI), fire classes, and regional parameters as input features, our model demonstrated the ability to assess the potential fire danger.
+* This project leverages the power of machine learning to enhance our understanding of fire weather dynamics in Algeria, ultimately contributing to more effective wildfire risk management strategies in the region.
 
 ### **Click [here](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Algerian_Fire_Forecaster.ipynb) to view the project**
 
