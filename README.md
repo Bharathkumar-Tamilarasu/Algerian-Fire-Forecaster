@@ -18,10 +18,11 @@
 # **Table of Contents**
   
   - Introduction
+  - Objective
   - About the Dataset
   - Python libraries used
   - Project Work flow
-  - Purpose of the analysis
+  - Conclusion
 
 ## **Introduction**
 
@@ -29,6 +30,9 @@
 * This project analyzes key factors like Temperature, Relative Humidity, Wind speed, Rain level,Fine Fuel Moisture Code, Duff Moisture Code, Drought Code, Initial Spread Index, Buildup Index and predicts Fire Weather Index.
 * By fusing meteorological data with machine learning, this project aims to provide timely insights for effective firefighting and emergency response, offering a proactive approach to wildfire management in Algeria.
 
+## **Objective** 
+
+The objective of this project is to utilize Python and machine learning techniques for predicting the Fire Weather Index (FWI) in different locations across Algeria.
 
 ## **About the Dataset**
 
@@ -73,9 +77,10 @@ Classes: two classes, namely Fire and not Fire
 4. Model Building
 5. Prediction
 
-## **The purpose of the analysis** 
+## **Conclusion**
 
-understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
+In conclusion, the 'Algerian_Fire_Forecaster' project successfully utilized Python and machine learning techniques to predict the Fire Weather Index (FWI) for locations in Algeria. By employing temperature, relative humidity (rh), wind speed (ws), rainfall (rain), Fine Fuel Moisture Code (FFMC), Duff Moisture Code (DMC), Initial Spread Index (ISI), fire classes, and regional parameters as input features, our model demonstrated the ability to assess the potential fire danger.
 
+This project leverages the power of machine learning to enhance our understanding of fire weather dynamics in Algeria, ultimately contributing to more effective wildfire risk management strategies in the region.
 
 ### **Click [here](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/blob/main/Airbnb_Analysis_(SG).ipynb) to view the solution of Airbnb Bookings EDA Analysis!** 
