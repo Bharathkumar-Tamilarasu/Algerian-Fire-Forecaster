@@ -83,4 +83,4 @@ In conclusion, the 'Algerian_Fire_Forecaster' project successfully utilized Pyth
 
 This project leverages the power of machine learning to enhance our understanding of fire weather dynamics in Algeria, ultimately contributing to more effective wildfire risk management strategies in the region.
 
-### **Click [here](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/blob/main/Airbnb_Analysis_(SG).ipynb) to view the solution of Airbnb Bookings EDA Analysis!** 
+### **Click [here](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Algerian_Fire_Forecaster.ipynb) to view the project!** 
