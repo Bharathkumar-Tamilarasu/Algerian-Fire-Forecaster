@@ -19,6 +19,7 @@
   
   - Introduction
   - Objective
+  - Data Collection
   - About the Dataset
   - Python libraries used
   - Project Work flow
@@ -33,6 +34,12 @@
 ## **Objective** 
 
 The objective of this project is to utilize Python and machine learning techniques for predicting the Fire Weather Index (FWI) in different locations across Algeria.
+
+## **Data Collection**
+
+The data for this project was collected from Kaggle, a popular platform for data science competitions and datasets.
+
+* Check out the dataset [here](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Algerian_forest_fires_dataset_UPDATE.csv)
 
 ## **About the Dataset**
 
