@@ -6,6 +6,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc.svg?style=for-the-badge&logo=pypi&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-64029a.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Author**: Bharathkumar Tamilarasu <br />
 **Email**: bharathkumar.t.17@gmail.com <br />
@@ -76,6 +77,7 @@ Weather data observations:
 * Scikit-Learn
 * Matplotlib.Pyplot
 * Seaborn
+* Regex
 
 ## **Project Work flow**
 
