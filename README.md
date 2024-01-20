@@ -24,6 +24,7 @@
   - About the Dataset
   - Python libraries used
   - Project Work flow
+  - Limitations
   - Conclusion
 
 ## **Introduction**
@@ -86,6 +87,12 @@ Weather data observations:
 3. Exploratory Data Analysis
 4. Model Building
 5. Prediction
+
+## Limitations
+* The model was trained exclusively using data from the 'Bejaia' and 'Sidi-Bel Abbes' Regions.
+* The training dataset spans from June 2012 to September 2012.
+* Exclusion of 'Drought Code (DC)' and 'Buildup Index (BUI)' input values is recommended due to their high correlation with 'Duff Moisture Code (DMC).'
+* The training prioritizes region-specific insights, focusing on the unique characteristics of 'Bejaia' and 'Sidi-Bel Abbes' during the specified time period.
 
 ## **Conclusion**
 
