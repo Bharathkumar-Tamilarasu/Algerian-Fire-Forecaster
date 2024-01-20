@@ -1,5 +1,7 @@
 # **Algerian Fire Forecaster**
 
+**Project [link](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Algerian_Fire_Forecaster.ipynb)**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -93,4 +95,4 @@ In conclusion, the 'Algerian_Fire_Forecaster' project successfully utilized Pyth
 
 This project leverages the power of machine learning to enhance our understanding of fire weather dynamics in Algeria, ultimately contributing to more effective wildfire risk management strategies in the region.
 
-### **Click [here](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Algerian_Fire_Forecaster.ipynb) to view the project!** 
+### *Your time and interest in viewing my project are greatly appreciated. Thank you. 😃!*
