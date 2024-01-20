@@ -88,17 +88,33 @@ Employed the following libraries for comprehensive data analysis:
 
 ## **Project Work flow**
 
-1. Data Exploration
-2. Data Wrangling
-3. Exploratory Data Analysis
-4. Model Building
-    - Feature Selection Based on Correlation
-    - Feature Scaling Or Standardization
-    - Linear Regression
-    - Lasso Regression
-    - Ridge Regression
-    - ElasticNet Regression
-5. Prediction
+**1. Data Exploration**
+  - Dive into an in-depth exploration of the dataset to gain insights into its structure, features, and distributions.
+
+**2. Data Wrangling**
+  - Perform data cleaning, handle missing values, and transform the data into a suitable format for analysis.
+
+**3. Exploratory Data Analysis**
+  - Conduct EDA to uncover patterns, trends, and relationships within the data using visualizations and statistical analyses.
+
+**4. Model Building**
+   
+  - Feature Selection Based on Correlation:
+    - Identify and select relevant features by assessing their correlation with the target variable.    
+  - Feature Scaling or Standardization:
+    - Normalize features to a consistent scale, ensuring fair comparisons between them.
+  - Linear Regression:
+    - Implement linear regression as a baseline model to understand the basic relationships between variables.
+- Lasso Regression:
+    - Introduce Lasso regression to enhance feature selection and mitigate overfitting.
+- Ridge Regression:
+    - Employ Ridge regression to address multicollinearity and stabilize model performance.
+- ElasticNet Regression:
+    - Combine L1 and L2 regularization using ElasticNet to benefit from both variable selection and regularization.
+
+**5. Prediction**
+  - Leverage the trained models to make predictions on new data, assessing their performance and reliability.
+
 
 ## Limitations
 * The model was trained exclusively using data from the 'Bejaia' and 'Sidi-Bel Abbes' Regions.
