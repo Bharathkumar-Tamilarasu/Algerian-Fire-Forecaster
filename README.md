@@ -95,4 +95,4 @@ This project leverages the power of machine learning to enhance our understandin
 
 ### **Click [here](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Algerian_Fire_Forecaster.ipynb) to view the project**
 
-### *Your time and interest in viewing my project are greatly appreciated. Thank you. 😃!*
+### **Your time and interest in viewing my project are greatly appreciated. Thank you. 😃!**
