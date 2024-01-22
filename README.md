@@ -14,7 +14,7 @@
 **LinkedIn**: https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/  <br />
 
 ##
-![Forest Fire Image](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Fiire%20Forest%20Forecast.jpg)
+![Fire Forest Forecast.jpg](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Fire%20Forest%20Forecast.jpg)
 
 # **Table of Contents**
   
@@ -130,6 +130,6 @@ Employed the following libraries for comprehensive data analysis:
 
 ### **Click [here](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Algerian%20Fire%20Forecaster.ipynb) to view the project**
 
-![Forest Fire Image_1]()
+![Fire Forest Forecast_1.jpg](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Fire%20Forest%20Forecast%201.jpg)
 
 ### **Your time and interest in viewing my project are greatly appreciated. Thank you. 😃!**
