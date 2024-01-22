@@ -14,7 +14,7 @@
 **LinkedIn**: https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/  <br />
 
 ##
-![Forest Fire Image](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Fire%20forest%20image.jpg)
+![Forest Fire Image](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Forest%20Fire%20image.jpg)
 
 # **Table of Contents**
   
