@@ -14,7 +14,7 @@
 **LinkedIn**: https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/  <br />
 
 ##
-![Forest Fire Image](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Forest%20Fire%20image.jpg)
+![Forest Fire Image](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Fiire%20Forest%20Forecast.jpg)
 
 # **Table of Contents**
   
@@ -129,5 +129,7 @@ Employed the following libraries for comprehensive data analysis:
 * This project leverages the power of machine learning to enhance our understanding of fire weather dynamics in Algeria, ultimately contributing to more effective wildfire risk management strategies in the region.
 
 ### **Click [here](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Algerian%20Fire%20Forecaster.ipynb) to view the project**
+
+![Forest Fire Image_1]()
 
 ### **Your time and interest in viewing my project are greatly appreciated. Thank you. 😃!**
