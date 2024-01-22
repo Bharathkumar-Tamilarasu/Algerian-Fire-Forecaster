@@ -29,7 +29,6 @@
     3. Exploratory Data Analysis
     4. Model Building
     5. Prediction
-  - Data Exploration
   - Limitations
   - Conclusion
 
