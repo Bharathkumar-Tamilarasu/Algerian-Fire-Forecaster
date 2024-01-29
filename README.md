@@ -37,7 +37,7 @@
 
 ## **Introduction**
 
-* Welcome to the 'Algerian Fire Forecaster,' a cutting-edge project leveraging Machine Learning and Python to predict wildfire risks in Algeria.
+* 'Algerian Fire Forecaster' - A cutting-edge project leveraging Machine Learning and Python to predict wildfire risks in Algeria.
 * This project analyzes key factors like Temperature, Relative Humidity, Wind speed, Rain level,Fine Fuel Moisture Code, Duff Moisture Code, Drought Code, Initial Spread Index, Buildup Index and predicts Fire Weather Index.
 * By fusing meteorological data with machine learning, this project aims to provide timely insights for effective firefighting and emergency response, offering a proactive approach to wildfire management in Algeria.
 
