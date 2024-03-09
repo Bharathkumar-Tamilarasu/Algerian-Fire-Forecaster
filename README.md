@@ -20,7 +20,7 @@
 **LinkedIn**: https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/  <br />
 
 ##
-![Fire Forest Forecast.jpg](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Fire%20Forest%20Forecast.jpg)
+![Fire Forest Forecast.jpg](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/resources/Fire%20Forest%20Forecast.jpg)
 
 # **Table of Contents**
   
@@ -51,7 +51,8 @@
 ## **Data Collection**
 
 * The data for this project was collected from Kaggle, a popular platform for data science competitions and datasets.
-* Check out the dataset [here](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Algerian_forest_fires_dataset_UPDATE.csv)
+* Check out the raw dataset [here](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/data/raw_data/Algerian_forest_fires_dataset_UPDATE.csv)
+* Check out the cleaned dataset [here](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/data/cleaned_data/Algerian_forest_fires_dataset_cleaned.csv)
 
 ## **About the Dataset**
 
