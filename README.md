@@ -130,8 +130,5 @@ Employed the following libraries for comprehensive data analysis:
 * By employing temperature, relative humidity (rh), wind speed (ws), rainfall (rain), Fine Fuel Moisture Code (FFMC), Duff Moisture Code (DMC), Initial Spread Index (ISI), fire classes, and regional parameters as input features, our model demonstrated the ability to assess the potential fire danger.
 * This project leverages the power of machine learning to enhance our understanding of fire weather dynamics in Algeria, ultimately contributing to more effective wildfire risk management strategies in the region.
 
-### **Click [here](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Algerian%20Fire%20Forecaster.ipynb) to view the project**
-
-![Fire Forest Forecast_1.jpg](https://github.com/Bharathkumar-Tamilarasu/Algerian-Fire-Forecaster/blob/main/Fire%20Forest%20Forecast%201.jpg)
-
+### **Ready to forecast the fire probablity? Click [here](https://realestate-valuation-system-fqcq.onrender.com/) to use our fire predictor**
 ### **Your time and interest in viewing my project are greatly appreciated. Thank you. 😃!**
